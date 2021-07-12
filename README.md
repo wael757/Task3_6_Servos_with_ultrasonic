@@ -1,6 +1,6 @@
 # Task3_6_Servos_with_ultrasonic
 This task is about:
-1-Making the 6 servo motors move 3 synchronous movments (robot is off, robot is smailng, robot is sad):
+1-Making the 6 servo motors move 3 synchronous movments (0 degree robot is off, 90 degrees robot is smailng, 270 degrees robot is sad):
 
 https://www.tinkercad.com/things/jALoZXzqlgs-task36servo-motors/editel?sharecode=1erpn23-lypcjkVmxstDymwEtULOKKV_ghbBSxQuHVI
 
